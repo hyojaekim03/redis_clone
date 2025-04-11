@@ -1,2 +1,2 @@
-# redis_clone
-C/C++ Redis
+# **Redis using C/C++**
+
